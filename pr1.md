@@ -37,4 +37,5 @@
 https://github.com/suliiik/OOP_sulik/blob/6facebfab7ec99bf8314b2c958e9782120ad8872/pr1.py
    
   4. UML-діаграма:
+ 
 ![image](https://user-images.githubusercontent.com/102514825/193752664-85656f53-8fb6-43a8-a702-434a73ec28ab.png)
